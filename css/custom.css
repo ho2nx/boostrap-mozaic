@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* Add your custom CSS declarations below  */
+body {
+    background-color: #fff;
+    color: black;
+}
+
+.nav-pills .nav-link-active, .show > .nav-pills .nav-link {
+    background-color: #fff;
+}
+
+.nav-item-hover {
+    background-color: #fff;
+}
+
+
